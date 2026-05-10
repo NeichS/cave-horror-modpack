@@ -1698,10 +1698,6 @@ file = "mods/[1.20.1-4] Restore Hardcore World v1.2.0.jar"
 hash = "f5dd3eeb5aeeb2c8b81e0baa1bf27fa9dc404616af9871c9a1784eec6370b927"
 
 [[files]]
-file = "mods/[Forge 1.20.1-5] Better Zoom v2.7.0.jar"
-hash = "8136aef6a04866eacf59ad45ccae8ddb2931ed0b97e406734de8b2cae2495813"
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "1e37b70e5697c834a09fbfb4ed66774884292708de5012015f1330cb6a9180e9"
 metafile = true
