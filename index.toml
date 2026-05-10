@@ -1761,11 +1761,6 @@ hash = "4fadb9af95201dbc92da40d859fa9e9317d0e5562fd31df6a373d094ea06768f"
 metafile = true
 
 [[files]]
-file = "mods/better-zoom.pw.toml"
-hash = "a0f9baa6f91e6bca3f110eb5a993d0c4b5ef709a2098247b7b14b3b250db1603"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
@@ -1803,11 +1798,6 @@ metafile = true
 [[files]]
 file = "mods/cave-dweller-reimagined.pw.toml"
 hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
-metafile = true
-
-[[files]]
-file = "mods/cave-horror-sounds.pw.toml"
-hash = "d51894f7d7fbe7ebfbc0170d578d0bd3bcbc3eef3d81a52d41f7d91533d72350"
 metafile = true
 
 [[files]]
@@ -2260,18 +2250,8 @@ hash = "6b3118aa1652e30455f79bfac010cc9170a67d1014649930ca6b627efb5fcccd"
 metafile = true
 
 [[files]]
-file = "mods/reds-anomaly-horror.pw.toml"
-hash = "af8af3340af8d6bc67cedb661ef7efd2fce7d2e0ae37df1d0426b5e862c47702"
-metafile = true
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
-metafile = true
-
-[[files]]
-file = "mods/restore-hardcore-world.pw.toml"
-hash = "0aa4a4caa536dba869fffb65d81093a5e24a513a22118fd78bdbdd3fd1d3efec"
 metafile = true
 
 [[files]]
@@ -2342,11 +2322,6 @@ metafile = true
 [[files]]
 file = "mods/spooky-music-trader.pw.toml"
 hash = "65125a0f4613444414cf06dc9d9639b81843e7917c61f0f2011b64e820a677bc"
-metafile = true
-
-[[files]]
-file = "mods/spooky-paintings.pw.toml"
-hash = "43336dbb1ad951d7a88bb00674b86465915c86afaea769dbbbd2342af3fd3622"
 metafile = true
 
 [[files]]
