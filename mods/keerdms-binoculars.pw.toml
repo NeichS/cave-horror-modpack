@@ -1,6 +1,6 @@
 name = "Keerdm's Binoculars"
 filename = "binocularsmod-1.02.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
