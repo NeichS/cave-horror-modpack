@@ -427,10 +427,6 @@ file = "config/bettertitlescreen-client.toml"
 hash = "26f789e367dccf508f2e3f46ba0f76ec83c930dd584e48a8fbbef9d831ce1bc4"
 
 [[files]]
-file = "config/betterzoom-client.toml"
-hash = "f628c485abd006a4bb25fd79589d2ddcf363b27211ad34a44790b331866c4e51"
-
-[[files]]
 file = "config/bhmenu-client.toml"
 hash = "c76e69177b994593e6365f21e41129563255b2ed8afc76c280d2944c5a65492f"
 
