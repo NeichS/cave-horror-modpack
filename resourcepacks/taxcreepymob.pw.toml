@@ -1,6 +1,6 @@
 name = "Tax' Creepy Mob"
 filename = "TaxCreepyMob+M.1.20.1+ResP.1.0.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

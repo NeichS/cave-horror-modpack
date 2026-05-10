@@ -1,6 +1,6 @@
 name = "Cassette Music Disc"
 filename = "cassette music discs 1.20 v1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

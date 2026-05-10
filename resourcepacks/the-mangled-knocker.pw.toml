@@ -1,6 +1,6 @@
 name = "The Mangled Knocker"
 filename = "The Mangled Knocker.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

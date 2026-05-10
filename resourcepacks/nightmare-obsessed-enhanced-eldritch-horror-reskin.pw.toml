@@ -1,6 +1,6 @@
 name = "Nightmare Obsessed - Enhanced Eldritch Horror Reskin"
 filename = "Nightmare Obsessed 1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

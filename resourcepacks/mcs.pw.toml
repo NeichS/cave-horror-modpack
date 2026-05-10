@@ -1,6 +1,6 @@
 name = "More Cave Sounds"
 filename = "More Cave Sounds.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

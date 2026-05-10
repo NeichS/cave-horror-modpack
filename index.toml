@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+hash = "ddd425996e84e08ea87dd34038fa8e51f6a8f9aa47ffc133a7cdcd6480c127fa"
 metafile = true
 
 [[files]]
 file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
+hash = "c5bc3ca7208ce354e61a0827ee83ab6e5cdd27341e7f8bfe4ca033ce35a08192"
 metafile = true
 
 [[files]]
@@ -1524,12 +1524,12 @@ hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 
 [[files]]
 file = "hysteria-shaders.pw.toml"
-hash = "24b0264ba35498b6d8d5685132a6ee111d59ed354455145361730a467614004c"
+hash = "895c03b12501f44e539234ab6b57d4fd67e098b1eefc3b82eac81acf2b501746"
 metafile = true
 
 [[files]]
 file = "insanity-shader.pw.toml"
-hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
+hash = "fac24b0a875dae1d7a19aafb398f33ed74723054eef87dec4cfd43c2ebf06c9b"
 metafile = true
 
 [[files]]
@@ -1686,8 +1686,20 @@ hash = "75a0837b315e3367fdb3203a5f456ba0b6ad455f980440ab6e4e75129a706fda"
 
 [[files]]
 file = "mellow.pw.toml"
-hash = "e66ac529e4fb9b38c75059b8ab8fd184e80b088aa495ee3fba462d54fe749a06"
+hash = "6824b254d39e8ef0050a9635294a61853d8b81ad9064691b6928f3b7cfdc4d57"
 metafile = true
+
+[[files]]
+file = "mods/Cave-Horror-Sounds.jar"
+hash = "d4a2e53cc11a2916a8cf91ff890bc989521f97d3a7a8bd8ccd82cafbdaddb04a"
+
+[[files]]
+file = "mods/[1.20.1-4] Restore Hardcore World v1.2.0.jar"
+hash = "f5dd3eeb5aeeb2c8b81e0baa1bf27fa9dc404616af9871c9a1784eec6370b927"
+
+[[files]]
+file = "mods/[Forge 1.20.1-5] Better Zoom v2.7.0.jar"
+hash = "8136aef6a04866eacf59ad45ccae8ddb2931ed0b97e406734de8b2cae2495813"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -1708,6 +1720,10 @@ metafile = true
 file = "mods/almanac-lib.pw.toml"
 hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
 metafile = true
+
+[[files]]
+file = "mods/anomaly-2.1.0-forge-1.20.1.jar"
+hash = "3079e9d9ca01e19da268e4c8b7069f4abc33ee39ae801d72432c31efcfd28a93"
 
 [[files]]
 file = "mods/apollyon.pw.toml"
@@ -2115,6 +2131,10 @@ hash = "de2643b3bb36e6b5fd97540bd79619e0844293b43487ecce1613165a409ce8cc"
 metafile = true
 
 [[files]]
+file = "mods/ls_spooky_paintings-2.1.1-forge-1.20.1.jar"
+hash = "fede3e53b57167cf33798eadfec56ccec0b8359518ffa95449fcb891634b47e6"
+
+[[files]]
 file = "mods/lunar.pw.toml"
 hash = "9ca8bdf846d7ceb5df351f4485908870f7f882ff752080aa986970fa51925fc1"
 metafile = true
@@ -2431,102 +2451,102 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/boss-refreshed.pw.toml"
-hash = "d204df07b6d6067b579c110510d25cafd3bbfa7ee3ea3386a0d8a829d114c12b"
+hash = "755c5a793dec281cbb3bab65e5477d7da7bb92144a80225befb8005dc8ab6980"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
-hash = "b6ba139be15f99ad7c289d5ab064e67c6e799936bc40eed12d27d2f953134839"
+hash = "5e4a33ff1028ad68467b9e5b72d462cd545eb3840a1284ef90f6a7aaad7ffe7f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-audio.pw.toml"
-hash = "f099a95f56566b90c54e4c1dcbb509bc6cb33e5a72510dde764490539e5c39de"
+hash = "dc6658314a04abcc9e8592889e05b49387ce607c81d8155be2e22d1fccbe3997"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "31b83961fa840a616da6be81c814fca8e6a3807a8203d17b027ddb044e3714cc"
+hash = "01ac9c984ac34981db5f6e5166cfaea254d97adc4ef310bebda2277c21191d01"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+hash = "9ec67e88b2aff3720a27dde232274a00e65b7ddc5e302a495d18bc41a42028a4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mcs.pw.toml"
-hash = "726bbcee5129f419262ffac31f1e497f4d38809619678d552a0bee7b4d148c25"
+hash = "baf710d52751182403dbfb7ed26c50c53a13a0c5544642c537b6ec065ed42b25"
 metafile = true
 
 [[files]]
 file = "resourcepacks/nightmare-obsessed-enhanced-eldritch-horror-reskin.pw.toml"
-hash = "fd7f7e5456755038b4a7683214c9ed231182ce1efb63c43e5f01fb995f3d2e97"
+hash = "cba4cf9c434ad1df173f0647b4f396eee016a277c82f5054cdd9f22b5c3ce69a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tax-cave-sky.pw.toml"
-hash = "a4a241e333fd2757343a8e9113ecdd18fa12f2fd8070ac562e05a673bef9fad7"
+hash = "cda1cde9c0a6b76d102b47053110661a50b43cc4f55def4b713069226956d02a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tax-creepy-artist.pw.toml"
-hash = "622fc01a696ae92dc342b65e4c8bb5d100c60316d996ffb69db4f0611b3b6a27"
+hash = "6664ed59759b15c3c1e269d402a10fdb57ab2a91d9bbaf9d837955c904a82baf"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcavepacker.pw.toml"
-hash = "bc848fcb97c0378164019a0c7efa2c76a4f2ba6ce53f46fc7c3e6707c7018141"
+hash = "e2216b18451134d89dc850e21ec357d6d3fc25c2e0af9ffe1c17faf5c7ec9f21"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepyillager.pw.toml"
-hash = "42c085b8cbe00697ae82fff8053ff751a560a8c247011afb8a05434151233475"
+hash = "4295ca28dd76c95e7bfc6ff842cf4dbebfc26007cc9b077f407da3c4dd63e033"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepymob.pw.toml"
-hash = "3490c5045f9f26e68acda640558a94214989e190c510b22f53a4a40ebee84735"
+hash = "d77fa37099d257913141205db69c0ab4b89fbcf6c6bce604975bce87ea93fc15"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepymusician.pw.toml"
-hash = "4b7be9f7d48428a6b77707540d0a4479762eca81b82cdc872ba8126a3ab2d53c"
+hash = "795fd4f5ba3e3f49e3ab98c0b715ccd17f08421f91b37ce202f54d376dcb9b34"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepyspeaker.pw.toml"
-hash = "05d8437859c9d077c5e35e3256cc98fce791568bb9c54c6001a907e0890c13a2"
+hash = "61ea3dc7fe9bb0c473da14dc2ed9df8b077628bf1eaf6d3c97193edec70084b0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepytotem.pw.toml"
-hash = "5773d44a165fe6d9802308644f0f3a7081db6516ac094419f185b7f98b8ef125"
+hash = "3a499bfa122cc3d159e9339e3591973179d3f49d1028012e9a36cc11e8e8d1be"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxcreepyvillager.pw.toml"
-hash = "c988a697268b8c189f81c6d5f5db3427df4de52acfe671a180c4c4ba2286bc2a"
+hash = "92ddb9fdcd48f2cda77616032c44b8a1ae015e58598f512b5aa6f04d9afd05e1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxfantasticcelestial.pw.toml"
-hash = "2beddb3b54910f63aad4cfc9aed71f06887087cc2bc8194c83178c5b86c3ef1e"
+hash = "32d53323b32d25f5a5d20b6fd9c3c5a5102b1edbbb414cb0be15f4e90e5e565b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/taxskelettontotem.pw.toml"
-hash = "ed054c076d558b5fdfc2ee7ff67d8ea5d560b8584d8ccd5ab645734dd99cb1d4"
+hash = "57e22a01dd868692d113e6d7b907b5c1c0c0bc1a125313be9d9335cad9098b2f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/the-mangled-knocker.pw.toml"
-hash = "c693dca4f1947ab47ce4505bc4385b169933a6073cc229d45c449273912fe614"
+hash = "c21a7ab3ef14d323cf2a95b2efa053b2cd2f95ef8b92ca3831eedde6ae59b7e0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-exp.pw.toml"
-hash = "a8480d4e1f8abadf4deaafcc06ec146fad273063f62b0582af6c595220a22968"
+hash = "e08876b5ce3455cd6751defd8d5de1dbd6709e477755e9612e55e96c6d93e853"
 metafile = true
 
 [[files]]
@@ -15123,5 +15143,5 @@ hash = "de297bcb78aa6890a7d34b1b7220f65031b363c1708622e1b51263af2bfb605f"
 
 [[files]]
 file = "spooklementary.pw.toml"
-hash = "296a7416965a7c32c3d9e063777794460cd16a011e58b8b73a8b38ed258b871b"
+hash = "b629ccab4bbd954e039b02889a795ef66d9e03a2d72e8d2a8571b114c4d09045"
 metafile = true
