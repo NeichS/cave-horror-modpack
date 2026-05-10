@@ -1,0 +1,13 @@
+name = "Tax' Creepy Illager"
+filename = "TaxCreepyIllager+M.1.20.1+ResP.1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "645f8f7c05edeb70b59c387651f68328c8e6eb22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5882657
+project-id = 1135810

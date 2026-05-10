@@ -1,0 +1,13 @@
+name = "Nightmare Obsessed - Enhanced Eldritch Horror Reskin"
+filename = "Nightmare Obsessed 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8eef742ad3a4a823e6f2670c603af3bfcdfe7a25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7450860
+project-id = 1427232

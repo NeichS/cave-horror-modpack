@@ -1,0 +1,13 @@
+name = "Vanilla Experience+"
+filename = "§b§lVanilla Experience+§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d568a227b06c335c966c28d8d907b3a97b1cedc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7806049
+project-id = 855152

@@ -1,0 +1,13 @@
+name = "Cave Horror Sounds"
+filename = "Cave-Horror-Sounds.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62bd5fabdddb7fa2e697b5b5187f5c925a8cafac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7252390
+project-id = 1390230

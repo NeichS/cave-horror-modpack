@@ -1,0 +1,13 @@
+name = "Tax' Creepy Totem"
+filename = "TaxCreepyTotem.M1.20.1+ResP.1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bec90282c3c0c850b5a83120ff1170d1bb7b37b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5850572
+project-id = 1129208

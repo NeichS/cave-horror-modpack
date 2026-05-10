@@ -1,0 +1,13 @@
+name = "The Mangled Knocker"
+filename = "The Mangled Knocker.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d96b94a6d2f3e87bc3a4f76394bcab7a8f2a5f0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6035679
+project-id = 1168229

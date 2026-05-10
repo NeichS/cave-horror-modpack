@@ -1,0 +1,13 @@
+name = "Tax' Cave Sky"
+filename = "TaxCaveSky+M.1.20.1+ResP.1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "038798f6642bda22b0ec5726e2598dd37b9a9dde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6763834
+project-id = 1305997

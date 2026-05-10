@@ -1,0 +1,13 @@
+name = "Redden's Stone Lanterns"
+filename = "reddens_stone_lanterns_1.0.3-forge1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74c79ed55cadcb659e05be47caddf18999f818fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5080254
+project-id = 965820

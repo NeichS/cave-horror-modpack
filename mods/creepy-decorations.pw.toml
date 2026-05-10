@@ -1,0 +1,13 @@
+name = "Creepy Decorations"
+filename = "creepydecorations-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbfff88d2a1beef5b106e6fcce41b86403a1c766"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7613956
+project-id = 1255242

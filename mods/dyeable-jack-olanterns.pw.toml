@@ -1,0 +1,13 @@
+name = "L's Dyeable Jack o'Lanterns"
+filename = "ls_djl-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80d20e9f48359df6da84fe962990883edea7c807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6460961
+project-id = 1127220

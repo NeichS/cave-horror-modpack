@@ -1,0 +1,13 @@
+name = "Tax' Skeletton Totem"
+filename = "TaxSkelettonTotem.M.1.20.1+ResP.1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3eed82573c9433011de64c61e64915df89d74519"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5852003
+project-id = 1129555

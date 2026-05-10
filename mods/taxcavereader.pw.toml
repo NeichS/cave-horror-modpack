@@ -1,0 +1,13 @@
+name = "Tax' Cave Reader"
+filename = "TaxCaveReader+M.1.20.1+ForM.1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0ea12d9abd933b50f24432d5eac4920b979764c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7265543
+project-id = 1392593

@@ -1,0 +1,13 @@
+name = "The Obsessed - Advanced Psychological Horror, Mysterious Arachnid Stalker"
+filename = "the_obsessed-1.4c-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0322c5c46b385ab675b110230fd739179e8e7300"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7676479
+project-id = 1372373
