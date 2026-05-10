@@ -1,6 +1,6 @@
 name = "Nemo's Inventory Sorting"
 filename = "nemos-inventory-sorting-Forge-1.20.1-1.13-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
